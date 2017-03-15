@@ -73,6 +73,7 @@ Please open a PR to be added.
 - [grandcentrix](https://www.grandcentrix.net/jobs/) | Cologne, Germany | Take-home project, discussion on-site
 - [Gusto](https://gusto.com/about/careers) | CA, CO
 - [Happy Team](https://happyteam.io/) | Remote/Poland | General technical questions, takehome paid exercise with feedback/discussion during implementation 
+- [Hashrocket](https://hashrocket.com/) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [HelloFresh](https://www.hellofresh.com/jobs/) | Berlin, Germany | Take-home project, discussion via Skype or on-site
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
@@ -116,7 +117,6 @@ Please open a PR to be added.
 - [Pusher](https://pusher.com/jobs) | London, UK | Solve a real-world problem through a design session with our engineers
 - [Quiet Light Communications](https://quietlightcom.com/positions-web.php) | Rockford, IL, USA | Discussion, work samples and/or small freelance project
 - [Rapyuta Robotics](http://www.rapyuta-robotics.com/pages/jobs.html) | Bengaluru, India / Tokyo, Japan / Zurich, Switzerland | Take-home assignment related to our ongoing projects, series of technical / experience based interviews, candidate presentation
-- [Rakuten](https://jobs.rakuten.careers/careersection/rakuten_ext_cs/jobdetail.ftl?job=00000751&tz=GMT%2B09%3A00) | Tokyo, Japan | Discuss about relevant experience
 
 ## S - U
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
@@ -127,7 +127,6 @@ Please open a PR to be added.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project related to business
 - [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
 - [StreetTeam](https://getstreetteam.com/careers) | London, UK | An intentionally short, take home exercise that mirrors real project work and incorporates code review elements
-- [SweetIQ](https://sweetiq.com/about/careers/) | Montreal, Canada | Discussion and general, high level questions
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
 - [The Book of Everyone](https://thebookofeveryone.workable.com) | Barcelona, Spain | Quick interview, meet the team, pairing with developers on your own project
 - [Thread](https://www.thread.com/jobs) | London, UK | Take home test, real world architecture design, real world pair programming.
